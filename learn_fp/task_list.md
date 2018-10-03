@@ -1,0 +1,3 @@
+[] eat
+[] poop
+[] die 
